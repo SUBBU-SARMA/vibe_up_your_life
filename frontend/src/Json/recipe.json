@@ -1,0 +1,598 @@
+{
+  "recipes": [
+    {
+      "name": "Mushroom Pulao",
+      "mandatoryIngredients": ["Mushroom - 200gms"],
+      "Ingredients": [
+        "ghee - 2tbsp",
+        "Oil - 1tbsp",
+        "Bay Leaf - 1",
+        "1inch cinnamon stick",
+        "cloves - 5",
+        "cardamom - 4",
+        "Black pepper - 1/2tbsp",
+        "Jeera - 1/2 tbsp",
+        "Onion - 1",
+        "Mushroom - 200gms",
+        "garam masala - 1/2tbsp",
+        "Ginger garlic paste - 1tbsp",
+        "Salt - 1tbsp",
+        "Rice/basmati rice - 1cup/250gms",
+        "Coriander leaves 1/2 bunch",
+        "Pudina 1/2 bunch"
+      ],
+      "beforeInHandPreparations": [
+        "Soak rice for 30 mins",
+        "Slice 1 onion",
+        "Chop mushrooms into 2 pieces",
+        "Chop pudina, coriander leaves"
+      ],
+      "procedure": [
+        "In a cooker heat 2tbsp ghee and 1 tbsp oil",
+        "Add 1 bay leaf, cinnamon stick, cloves, cardamom, black pepper, jeera and onion",
+        "Fry till golden",
+        "Add 200gms mushroom, saute and cook till 50%",
+        "Now add garam masala, salt, ginger garlic paste",
+        "Cook for 3-4 mins till raw smell goes off",
+        "Add 1.5 cup water and Add soaked rice/basmati rice",
+        "Add coriander leaves, pudina leaves and cook on high flame for 1 whistle",
+        "Rest for 15-20 mins"
+      ],
+      "time": 1,
+      "timeOfDay": [],
+      "typeOfFood": "",
+      "tyeOfPreparation": ["Instant"]
+    },
+    {
+      "name": "Aloo Curry(konkan Style)",
+      "mandatoryIngredients": ["Potatoes"],
+      "Ingredients": [
+        "Potatoes - 300gms",
+        "Spicy chillies - 12",
+        "Tamarind - Lemon size",
+        "oil - 1/4 cup",
+        "Mustard seeds - 1tbsp",
+        "Coriander - 2tbsp"
+      ],
+      "beforeInHandPreparations": [
+        "Soak 12 Spicy chillies for 30 minutes",
+        "Soak 1 small lemon size tamarind in hot water",
+        "Peel and cut potatoes into cubes",
+        "Peel coriander leaves"
+      ],
+      "procedure": [
+        "In a bowl add water, add potatoes, add little salt and cook it upto 80% (Should not cook completely)",
+        "drain and cool the potatoes",
+        "Grind tamarind and Soaked spicy chillies, Add water for fine paste",
+        "In a pan add 1/4th cup oil, Add mustard seeds and let them splutter",
+        "Add Chilli tamarind grinded paste into the pan",
+        "Fry it on medium flame till oil seperates",
+        "Add cooked potatoes, add little salt",
+        "Coat potatoes and Fry till it turns into Light golden color",
+        "Add 2tbsp coriander on top"
+      ],
+      "time": 1,
+      "timeOfDay": ["any"],
+      "typeOfFood": "",
+      "tyeOfPreparation": ["Instant"]
+    },
+    {
+      "name": "Protein Powder",
+      "mandatoryIngredients": [],
+      "Ingredients": [
+        "Almonds - 150gms",
+        "Walnut - 100gms",
+        "Milk powder - 50gms",
+        "Oats - 50gms",
+        "ChiaSeeds - 2tbspn",
+        "Peanuts - 100gms",
+        "Pumpkin Seeds - 100gms",
+        "Cardamom - 4",
+        "Flax Seeds - 1tbsp",
+        "Ashwagandha - 1tbsp"
+      ],
+      "beforeInHandPreparations": [],
+      "procedure": ["Roast your Peanuts", "Grind all ingredients"],
+      "time": 15,
+      "timeOfDay": [],
+      "typeOfFood": "Evening Snack",
+      "tyeOfPreparation": ["Instant"]
+    },
+    {
+      "name": "Tomato chutney",
+      "mandatoryIngredients": ["tomato"],
+      "Ingredients": [
+        "Oil - 4tbsp",
+        "garlic - 5cloves",
+        "red chillis - 5",
+        "onion - 1",
+        "Curry Leaves - few",
+        "tomato - 5 medium",
+        "salt-as required",
+        "Turmeric 1/4tbsp",
+        "mustard seeds - 1/2tbsp",
+        "Cumin seeds - 1/2 tbsp",
+        "asafoetida - 1/4tbsp"
+      ],
+      "beforeInHandPreparations": ["chop Onion and tomatoes"],
+      "procedure": [
+        "In a pan add 2tbsp oil, few garlic cloves and 4 red chilli, fry them for a while",
+        "Add onions and saute well",
+        "Add curry leaves, tomato and saute well",
+        "Add salt and turmeric powder and saute well",
+        "cover and cook for 5 min",
+        "grind it into fine paste",
+        "In a pan add 2tbsp oil, mustard seeds,cumin seeds,asafotida,1 red chilli, garlic, and few curry leaves",
+        "mix it with the tomato paste"
+      ],
+      "time": 1,
+      "timeOfDay": ["any"],
+      "typeOfFood": "chutney",
+      "tyeOfPreparation": ["Instant"]
+    },
+    {
+      "name": "Coconut pickel",
+      "mandatoryIngredients": ["Coconut"],
+      "Ingredients": [
+        "coconut - 1 cup(not grated)",
+        "tomato - 2",
+        "tamarind - 10g",
+        "red chillis - 15",
+        "Hing - pinch",
+        "Chana dal - 1tbsp",
+        "Urad dal - 1/2tbsp",
+        "Mustard seeds - 1/2tbsp",
+        "Jeera - 1/2 tbsp",
+        "Curry Leaves - few",
+        "salt-as required",
+        "oil/ghee - 2tbsp"
+      ],
+      "beforeInHandPreparations": [
+        "Cut coconut into pieces and chop tomatoes",
+        "soak tamarind"
+      ],
+      "procedure": [
+        "In a pan add ghee, Once it is heated fry red chillies till the color changes and keep it aside",
+        "In same pan fry coconut pieces for 1 min and keep it aside",
+        "In the same pan add tomato and tamarind and let it cook",
+        "grind red chillies and salt",
+        "Add coconut pieces and grind again",
+        "Now add tomato and water and grind again",
+        "In a pan heat oil, add red chillies and fry for half minute",
+        "add Urad dal,chana dal,mustard seeds, jeera few curry leaves and hing",
+        "add grinded paste and mix it for 1 minute"
+      ],
+      "time": 1,
+      "timeOfDay": [],
+      "typeOfFood": "",
+      "tyeOfPreparation": ["Instant"]
+    },
+    {
+      "name": "Coconut Rice",
+      "mandatoryIngredients": ["Coconut", "Rice"],
+      "Ingredients": [
+        "rice - 1 cup",
+        "water - 2 cups",
+        "ghee - 3tbsp",
+        "Mustard seeds - 1tbsp",
+        "Urad dal - 1/2tbsp",
+        "Chana dal - 1tbsp",
+        "Curry Leaves - few",
+        "red chillis - 2",
+        "greenchill - 2",
+        "Cashews 10",
+        "coconut - 3/4th cup grated",
+        "Salt - 1/2th tbsp",
+        "1inch cinnamon stick",
+        "cloves -3"
+      ],
+      "beforeInHandPreparations": [
+        "grate coconut",
+        "wash rice and keep it aside"
+      ],
+      "procedure": [
+        "In a pan add ghee, cinnamon, cloves and saute it well",
+        "Add it to the rice and cook it",
+        "Allow it to cool down for 15 minutes",
+        "In a pan heat 1tbsp ghee and add 1tbsp mustard, 1/2tbsp urad dal, 1tbsp chana dal,few curry leaves,2 dried red chillies, 2 green chillies and saute well",
+        "now add 10 cashews and roast till the cashews turn golden brown",
+        "Add grated coconut and saute for a minute till the raw smell goes away",
+        "Add tempering mixture to the ricea and add salt to taste and mix it well."
+      ],
+      "time": 25,
+      "timeOfDay": ["any"],
+      "typeOfFood": "",
+      "tyeOfPreparation": ["Instant"]
+    },
+    {
+      "name": "Panner Biryani",
+      "mandatoryIngredients": ["paneer", "tomato", "onion", "chilli"],
+      "Ingredients": [
+        "Oil 4tbsp",
+        "1 big black cardamom",
+        "1 Mace",
+        "1inch cinnamon stick",
+        "Cumin seeds - 1/2 tbsp",
+        "Green Chilli - 2",
+        "Onions - 2",
+        "tomato - 1",
+        "Ginger garlic paste - 1tbsp",
+        "rice - 1 cup",
+        "Turmeric 1tbsp",
+        "Red chilli powder - 1tbsp",
+        "coriander powder - 1/2tbsp",
+        "Cumin Powder - 1/2tbsp",
+        "curd 1/4cup",
+        "biryani masala - 2tbsp",
+        "Panner - 200 gms",
+        "Salt - 2tbsp",
+        "Ghee 1tbsp",
+        "Coriander leaves",
+        "Mint leaves"
+      ],
+      "beforeInHandPreparations": [
+        "chop Green chilli, onion, tomato, mint and coriander leaves",
+        "Slice panner into cubes",
+        "wash rice and keep it aside",
+        "Prepare Ginger garlic paste"
+      ],
+      "procedure": [
+        "Heat 4tbsp oil",
+        "Add Mace, cinnamon stick, black cardomom and cumin seeds, let them boild for 1/2 min",
+        "Add green chilli and onion, Fry it for 3-4 min on medium flame",
+        "Add 1tbsp ginger garlic paste",
+        "Add tomato and cook it for 3-4 minutes",
+        "Add 1tbsp turmeric powder, 1tbsp redchilli powder, 1/2 tbsp coriander powder, 1/2 tbsp cumin powder and mix it well",
+        "Cook it well for 1 min on low flame",
+        "Turn off the flame and let the masala cool down",
+        "Now whisk the curd and add it to masala, add 2tbsp birayni masala and mix it well",
+        "cook it for 1 min on low flame",
+        "Add panner cubes(fry if required), Add 1tbsp Salt.",
+        "Mix it well, cover the pan and cook for 2mins",
+        "Turn off the flame, Add mint & coirander leaves, Add 1tbsp ghee on top",
+        "Add washed rice and sprinkle little amount of biryani powder",
+        "Add 1tbsp salt,mint & coriander leaves and 1tbsp ghee on top",
+        "Add water and turn on the flame boil it for 3-4 min on high flame",
+        "Cover 80% lid and cook on medium flame for 5 min",
+        "cover completely and cook it on low flame for 7 mins",
+        "Check moist with knife and cook it for 1 or 2 mins",
+        "turn off the flame and leave it for 5 min"
+      ],
+      "time": 1,
+      "timeOfDay": [],
+      "typeOfFood": "",
+      "tyeOfPreparation": []
+    },
+    {
+      "name": "paneer Butter masala",
+      "mandatoryIngredients": ["paneer", "tomato"],
+      "Ingredients": [
+        "tomatoes - 500g",
+        "Bay leaf - 2",
+        "Ghee 3tbsp",
+        "Cashews - 50g",
+        "Ginger garlic paste - 1tbsp",
+        "salt-as required",
+        "Stevia - 1/2tbsp",
+        "Tomato ketchup - 2tbsp",
+        "Red chilli powder - 1tbsp",
+        "Milk - 4tbsp",
+        "Corn flour - 1tbsp",
+        "Kasori methi - 1/2tbsp",
+        "Garam masala - 1/4tbsp",
+        "Cardamom - 3",
+        "Green Chilli - 2",
+        "Coriander - 1tbsp",
+        "Panner - 500g"
+      ],
+      "beforeInHandPreparations": [
+        "Prepare Tomato pure - Boil tomatoes with bay leaf and make a smooth paste",
+        "Prepare Corn Starch - mix milk and corn flour",
+        "Powder Cashew nuts - 4tbsp",
+        "Slit green chilli",
+        "Crush Green Cardamom",
+        "Finely chop Coriander leaves",
+        "Slice panner into cubes"
+      ],
+      "procedure": [
+        "In a pan Add 2tbsp of ghee",
+        "add Cashew nut powder and roast it on low flame",
+        "Add ginger garlic paste and roast it",
+        "Add tomato pure and roast it",
+        "Add Salt,Stevia and increase flame little bit and cook",
+        "Add ketchup, Red chilli powder and cook it for a minute",
+        "Add Water,Corn Starch and cook it",
+        "In another pan add ghee, Cardamom, Slit chilli, Coriander and add panner",
+        "Cook it for a min",
+        "add panner into the gravy and mix them well",
+        "Add kasuri methi and garam masala"
+      ],
+      "time": 1,
+      "timeOfDay": [],
+      "typeOfFood": "",
+      "tyeOfPreparation": ["Instant"]
+    },
+    {
+      "name": "Tomato Rice",
+      "mandatoryIngredients": ["Onion", "tomato", "Rice"],
+      "Ingredients": [
+        "Oil - 2tbsp",
+        "Peanuts - 2tbsp",
+        "Mustard seeds - 1tbsp",
+        "Urad dal - 1tbsp",
+        "Chana dal - 1tbsp",
+        "Cumin seeds - 1/2 tbsp",
+        "Hing - pinch",
+        "Curry Leaves - few",
+        "coriander-pinch",
+        "Onions - 1",
+        "Ginger - 1inch",
+        "tomato - 2",
+        "Turmeric 1/4tbsp",
+        "chill 3/4tbsp",
+        "Salt - 1tbsp",
+        "Rice - 2.5cups"
+      ],
+      "beforeInHandPreparations": [
+        "Chop onion,Grate ginger,tomato and coriander"
+      ],
+      "procedure": [
+        "Add oil and roast peanuts on low flame, Keep aside once it turns crunchy",
+        "Add mustard seeds, Urad dal, Chana dal, Cumin Seeds, Hing, curry leaves and splutter tempering",
+        "Add onion,Ginger, Saute well",
+        "Add tomato and saute for 1 min",
+        "Add turmeric, chilli powder and salt and saute on low flame",
+        "Add rice and mix gently cook in simmer for 5 min",
+        "Add grated coconut, coriander leaves"
+      ],
+      "time": 1,
+      "timeOfDay": [],
+      "typeOfFood": "",
+      "tyeOfPreparation": ["Instant"]
+    },
+    {
+      "name": "paneer sandwich",
+      "mandatoryIngredients": ["paneer", "Bread"],
+      "Ingredients": [
+        "paneer - 1cup,grated",
+        "Capsicum - 2tbsp",
+        "Ginger garlic paste - 1tbsp",
+        "Chilli powder - 1/2tbsp",
+        "Cumin Powder 1/4tbsp",
+        "Garam masala - 1/4tbsp",
+        "Aamchur powder - 1/4tbsp",
+        "Tomato sauce - 2tbsp",
+        "Coriander - 2tbsp",
+        "salt - 1/4tbsp",
+        "Bread - any",
+        "Green chutney - as required"
+      ],
+      "beforeInHandPreparations": [
+        "Grate paneer",
+        "chop capsicum,coriander",
+        "Preapare Green chutney"
+      ],
+      "procedure": [
+        "Mix all the ingredients to prepare paneer stuffing",
+        "Spread green chutney on bread slices",
+        "Grill or heat it"
+      ],
+      "time": 15,
+      "timeOfDay": ["any"],
+      "typeOfFood": ["breakfast", "snack"],
+      "tyeOfPreparation": ["prerequisite"]
+    },
+    {
+      "name": "Green Chutney",
+      "mandatoryIngredients": ["Coriander", "Mint", "peanuts"],
+      "Ingredients": [
+        "Coriander - 1cup",
+        "Mint - half cup",
+        "peanuts - 2tbsp",
+        "Ginger - 1inch",
+        "garlic - 3cloves",
+        "Green Chilli - 3",
+        "Lemon - 2tbsp",
+        "Jeera - 1/2 tbsp",
+        "Chat masala - 1/2 tbsp",
+        "sugar - 1/4th tbsp",
+        "Salt - 1/4th tbsp",
+        "water - 1/4th cup"
+      ],
+      "beforeInHandPreparations": [
+        "Roast Peanuts",
+        "peel sking of garlic and ginger",
+        "Slit green chilli",
+        "Chop coriander and mint leaves if required"
+      ],
+      "procedure": ["blend smoothly all ingredinets"],
+      "time": 15,
+      "timeOfDay": ["any"],
+      "typeOfFood": "",
+      "tyeOfPreparation": ["Instant"]
+    },
+    {
+      "name": "Sample",
+      "mandatoryIngredients": [],
+      "Ingredients": [],
+      "beforeInHandPreparations": [],
+      "procedure": [],
+      "time": 1,
+      "timeOfDay": [],
+      "typeOfFood": "",
+      "tyeOfPreparation": ["Instant"]
+    },
+    {
+      "name": "Banana Milkshake",
+      "mandatoryIngredients": ["Banana", "Cashews", "Honey", "Milk"],
+      "Ingredients": [
+        "Banana - 1 piece",
+        "Cashews 6-7",
+        "Honey - 1.5tbsp",
+        "Milk - 200ml"
+      ],
+      "beforeInHandPreparations": [],
+      "procedure": [
+        "Add chopped banana into a blender",
+        "Add Cashews,honey and milk",
+        "Blend it"
+      ],
+      "time": 5,
+      "timeOfDay": ["Evening", "Pre-workout"],
+      "typeOfFood": "",
+      "tyeOfPreparation": ["Instant"]
+    },
+    {
+      "name": "Chikpeas meal",
+      "mandatoryIngredients": ["chickpeas", "onion", "tomato", "paneer"],
+      "Ingredients": [
+        "chickpeas - handfull",
+        "onion - 1",
+        "tomato - 1",
+        "paneer-as required",
+        "coriander - pinch",
+        "greenchill - 1",
+        "cucumber - half",
+        "salt-as required"
+      ],
+      "beforeInHandPreparations": [
+        "soak chickpeas for 8hrs/overnight",
+        "Chop onions,tomatoes,cucumber and slit Green chiillis"
+      ],
+      "procedure": [
+        "In a pressure cooker add chickpeas and bayleaf(optional),lavangam(optional),dalchini(optional) and salt",
+        "cook soaked chickpeas in presurre cooker for 15-20 mins in low or medium flame upto 5 whistles",
+        "keep it aside for 10 mins",
+        "Now in a bowl add all the chopped ingredients",
+        "add coriander leaves,grated paneer and sal and give a mix."
+      ],
+      "time": 25,
+      "timeOfDay": ["Morning"],
+      "typeOfFood": "Breakfast",
+      "typeOfPreparation": "Not instant"
+    },
+    {
+      "name": "Banana oat meal",
+      "mandatoryIngredients": ["Banana", "Oats", "Honey", "Milk"],
+      "Ingredients": [
+        "Banana",
+        "Oats",
+        "Honey",
+        "Milk",
+        "Cashews",
+        "Badam",
+        "Raisins",
+        "Dates",
+        "Pista"
+      ],
+      "beforeInHandPreparations": [],
+      "procedure": [
+        "Take a bowl and add 5 tbsps of oats",
+        "Add 4 Cashews,4 Badam,4 Pista,2 seedless dates,few raisins and any other dry fruits you like",
+        "Add 1 tbsp of honey",
+        "Chop banana into circles and add them",
+        "Add 200 ml of boiled milk and give a good mix",
+        "Ready to eat"
+      ],
+      "time": 10,
+      "timeOfDay": ["Morning"],
+      "typeOfFood": "Breakfast",
+      "typeOfPreparation": "Instant"
+    },
+    {
+      "name": "Dal Kichidi",
+      "mandatoryIngredients": ["Rice", "Moong dal"],
+      "Ingredients": [
+        "Rice - 100g",
+        "Moong dal - 100g",
+        "Ghee 3tbsp",
+        "Turmeric 1/2tbsp",
+        "Salt 1tbsp",
+        "Garam masala - 1/2tbsp",
+        "Chilli powder - 1tbsp",
+        "Cumin seeds 1tbsp",
+        "Bay leaf - 1",
+        "Hing - pinch",
+        "onion-1",
+        "tomato-1",
+        "Ginger garlic paste - 1tbsp",
+        "Coriander - 2tbsp"
+      ],
+      "beforeInHandPreparations": [
+        "Soak Rice and moong dal for 10 minutes",
+        "Chop 1 onion,1 tomato and coriander"
+      ],
+      "procedure": [
+        "In a cooker heat 1tbsp ghee,add soaked Rice & Dal and saute for 1 minute",
+        "Add 1/4tbsp turmeric, salt 1/2tbsp, 3.25 cup water and cook it till five whistles",
+        "In a pan add 2tbsp ghee,1tbsp cumin seeds,1 bay leaf, pinch of hing",
+        "Add 1 finely chopped onion, 1tbsp ginger garlic paste and saute well",
+        "Add 1 finely chopped tomato and saute well",
+        "Add 1/4tbsp turmeric, chilli powder 1tbsp,garam masala 1/2tbsp, salt 1/2tbsp and saute on low flame",
+        "Add cooked rice&dal, 1cup of water and adjust consitency",
+        "Keep in simmer for 5 minutes and add 2tbsp of coriander"
+      ],
+      "time": 1,
+      "timeOfDay": ["Night", "Afternoon"],
+      "typeOfFood": ["Lunch", "Dinner"],
+      "typeOfPreparation": "Prerequisite"
+    },
+    {
+      "name": "Cucumber cooler",
+      "mandatoryIngredients": ["cucumber", "lemon", "Salt"],
+      "Ingredients": [
+        "cucumber",
+        "lemon",
+        "Black Salt",
+        "salt",
+        "Cumin Powder"
+      ],
+      "beforeInHandPreparations": ["Peel skin of cucumber and chop it"],
+      "procedure": [
+        "Add chopped cumcumber slices into a blend jar",
+        "Squeeze 1 lemon juice",
+        "Add pinch of black salt/salt and pinch of cumin powder",
+        "add half glass water and blend"
+      ],
+      "time": 5,
+      "timeOfDay": ["Evening"],
+      "typeOfFood": "Drinks",
+      "typeOfPreparation": "Instant"
+    },
+    {
+      "name": "Cashew upma",
+      "mandatoryIngredients": ["Cashews", "Wheat", "Green chilli", "Ghee"],
+      "Ingredients": [
+        "Cashews",
+        "Wheat",
+        "Green chilli",
+        "Ghee",
+        "Cumin seeds",
+        "Mustard seeds",
+        "Ginger Paste",
+        "Curry Leaves",
+        "Onions",
+        "tomatoes",
+        "carrot",
+        "Salt"
+      ],
+      "beforeInHandPreparations": [
+        "Chop onions,tomatoes,carrot and slit Green chiillis"
+      ],
+      "procedure": [
+        "In a pan add 1tbsp cow Ghee/Ghee",
+        "Once ghee gets hot add 1tbsp Cumin seeds, 1tbsp Mustard seeds, 1tbsp ginger paste, Green chilli 1 or 2",
+        "Add Cashews 5-6, curry leaves",
+        "Now add chopped onions and wait until it color turns brown",
+        "Add chopped carrot,tomatoes and wait until it gets mashy",
+        "Put two cups of water and half cup broken wheat",
+        "Add salt Cover it and let it cook on low flame",
+        "Top it up witha an extra spoon of ghee"
+      ],
+      "time": 15,
+      "timeOfDay": ["Morning", "Night"],
+      "typeOfFood": "Breakfast",
+      "typeOfPreparation": "Instant"
+    }
+  ]
+}
